@@ -30,7 +30,7 @@ Samurai Match Analyzer is a React-based application designed for analyzing footb
    ```bash
    cd SamuraiMatchAnalyzer
    ```
-3. Install dependencies:
+3. Install dependencies (if applicable):
    ```bash
    npm install
    ```
@@ -46,21 +46,12 @@ Samurai Match Analyzer is a React-based application designed for analyzing footb
    http://localhost:3000
    ```
 
-## Project Structure
+## Project Files
 
-```
-SamuraiMatchAnalyzer/
-├── src/
-│   ├── components/
-│   │   ├── ui/
-│   │   │   ├── button.js
-│   │   │   ├── card.js
-│   │   │   ├── dialog.js
-│   ├── samurai_match_analyzer.tsx
-├── public/
-├── package.json
-├── README.md
-```
+This repository contains the following files:
+
+- `samurai_match_analyzer.tsx`: The main application code for the Samurai Match Analyzer.
+- `README.md`: Documentation for the project.
 
 ## Dependencies
 
@@ -68,7 +59,6 @@ This project uses the following main dependencies:
 
 - **React**: A JavaScript library for building user interfaces.
 - **Lucide-React**: Icon library for React components.
-- **Custom UI Components**: Pre-built components for cards, buttons, and dialogs.
 
 ## Contributing
 
@@ -88,10 +78,6 @@ Contributions are welcome! Please follow these steps:
    git push origin feature-name
    ```
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
