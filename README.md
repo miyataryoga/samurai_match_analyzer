@@ -98,8 +98,8 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, feel free to contact:
 
 **Ryoga Miyata**  
-Email: [your.email@example.com](mailto:your.email@example.com)  
-GitHub: [yourusername](https://github.com/yourusername)
+Email: [ryan.miyata.uk@example.com](mailto:ryan.miyata.uk@example.com)  
+GitHub: [miyataryoga](https://github.com/miyataryoga)
 
 ---
 
